@@ -70,22 +70,6 @@ fmt.Println(device.Uri) # get the device uri
 fmt.Println(device.Name) # get the device name
 ```
 
-### Implemented Services
-
-Learn how to use Lelylan and AngulasJS in deep.
-
-- [x] [Devices](http://dev.lelylan.com/api/devices#angular).
-- [x] [Activations](http://dev.lelylan.com/api/devices#angular).
-- [x] [Types](http://dev.lelylan.com/api/types#angular).
-- [x] [Properties](http://dev.lelylan.com/api/types/properties#angular).
-- [x] [Functions](http://dev.lelylan.com/api/types/functions#angular).
-- [x] [Statuses](http://dev.lelylan.com/api/types/statuses#angular).
-- [x] [Physical devices](http://dev.lelylan.com/api/physicals#angular).
-- [x] [Subscriptions](http://dev.lelylan.com/api/realtime#angular).
-- [x] [User Profile](http://dev.lelylan.com/api/core#get-a-user-angular).
-- [x] [OAuth2](http://dev.lelylan.com/api/oauth#implicit-grant-angular).
-
-
 ## Contributing
 
 Fork the repo on github and send a pull requests with topic branches. Do not forget to
