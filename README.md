@@ -112,12 +112,6 @@ Use the [issue tracker](http://github.com/lelylan/lelylan-go/issues) for bugs.
 
 Special thanks to the following people for submitting patches.
 
-
-## Changelog
-
-See [CHANGELOG](https://github.com/lelylan/lelylan-rb/blob/master/CHANGELOG.md)
-
-
 ## Copyright
 
 Copyright (c) 2013 [Lelylan](http://lelylan.com).
